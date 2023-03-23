@@ -1,0 +1,20 @@
+* h2 {
+    font-weight: 200;
+    background-color: mediumblue;
+}
+
+.tittle {
+    height: 250 vh;
+    text-align: center;
+    background-color: blue;
+}
+
+.formacion {
+    grid-area: formacion;
+    border: 2.8px solid black;
+
+}
+.experiencia {
+    grid-area: formacion;
+    border: 2.8px solid black;
+}
